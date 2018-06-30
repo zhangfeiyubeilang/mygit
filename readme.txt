@@ -8,3 +8,6 @@ fadsfadsf
 the first githob uses
 create branch is easy
 create branch is easy
+
+
+Creating a new branch is quick & simple.
